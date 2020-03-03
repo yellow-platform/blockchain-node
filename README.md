@@ -63,3 +63,7 @@ Public IP: `49.229.34.132`
 - ws port: `8586`
 - graphql port: `8587`
 - p2p port: `30343`
+
+# Setup
+
+Check the [setup](setup.md) page.
