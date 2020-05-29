@@ -25,7 +25,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://ropsten.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.ropsten.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.ropsten.ethereum.blockchain.yellow.com`
-- Enode endpoint: `enode://d25f60e079fca5ee5e91e64dde55b23b8d6bb035438ce4bf873f510c765c0ba6910d8d21853b99be07fc9fbe666cf7cba053e25a09feca8a0d9707aaad3ecdd3@49.229.34.132:30303`
+- Enode endpoint: `enode://d25f60e079fca5ee5e91e64dde55b23b8d6bb035438ce4bf873f510c765c0ba6910d8d21853b99be07fc9fbe666cf7cba053e25a09feca8a0d9707aaad3ecdd3@49.229.34.132:30313`
 - software: `geth v1.9.10`
 - light server enabled
 - rpc port: `8555`
@@ -37,7 +37,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://rinkeby.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.rinnkeby.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.rinkeby.ethereum.blockchain.yellow.com`
-- Enode endpoint: `enode://ef28b1da6f65a2448cc2506a60388c78a4f9bc08faf3250b330d81d7991d962cd4d5abb354bf3fc033c73e5b0f303af3f84867ab0a6609bba89f7ee36eb5cb15@49.229.34.132:30303`
+- Enode endpoint: `enode://ef28b1da6f65a2448cc2506a60388c78a4f9bc08faf3250b330d81d7991d962cd4d5abb354bf3fc033c73e5b0f303af3f84867ab0a6609bba89f7ee36eb5cb15@49.229.34.132:30323`
 - software: `geth v1.9.10`
 - light server enabled
 - rpc port: `8565`
@@ -49,7 +49,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://goerli.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.goerli.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.goerli.ethereum.blockchain.yellow.com`
-- Enode endpoint: `enode://d01a69a36bb6e2e5cc4970161eb3fd23f13054e31800762bb5c4e86b7f0694da7821e49f02a181d13bf400cd689a5ecb8473f8b92ed123a6c76313ee0c82ef1c@49.229.34.132:30303`
+- Enode endpoint: `enode://d01a69a36bb6e2e5cc4970161eb3fd23f13054e31800762bb5c4e86b7f0694da7821e49f02a181d13bf400cd689a5ecb8473f8b92ed123a6c76313ee0c82ef1c@49.229.34.132:30333`
 - software: `geth v1.9.10`
 - light server enabled
 - rpc port: `8575`
