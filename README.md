@@ -37,7 +37,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://rinkeby.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.rinnkeby.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.rinkeby.ethereum.blockchain.yellow.com`
-- Enode endpoint: `enode://ef28b1da6f65a2448cc2506a60388c78a4f9bc08faf3250b330d81d7991d962cd4d5abb354bf3fc033c73e5b0f303af3f84867ab0a6609bba89f7ee36eb5cb15@49.229.34.132:30323`
+- Enode endpoint: `enode://cdc37aec26ec2cf412e6e6d98abedca90215e3e196ccd83f4813b7474b8b4cf235c7a3be83afffdbe63443fc4d5aa86523bcb2df97007ffcd07248a283e994f9@49.229.34.132:30323`
 - software: `geth v1.9.10`
 - light server enabled
 - rpc port: `8565`
@@ -49,7 +49,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://goerli.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.goerli.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.goerli.ethereum.blockchain.yellow.com`
-- Enode endpoint: `enode://d01a69a36bb6e2e5cc4970161eb3fd23f13054e31800762bb5c4e86b7f0694da7821e49f02a181d13bf400cd689a5ecb8473f8b92ed123a6c76313ee0c82ef1c@49.229.34.132:30333`
+- Enode endpoint: `enode://8c2236bb893f0d93d922402525e1414c8e11f06bb9af852a5ff42c96c6277e976d5135f0a90b2e1a45f13c618e2b07f48c595dc982e869a35a22b32f8f99078b@49.229.34.132:30333`
 - software: `geth v1.9.10`
 - light server enabled
 - rpc port: `8575`
@@ -61,6 +61,7 @@ Public IP: `49.229.34.132`
 - RPC https endpoint: `https://classic.ethereum.blockchain.yellow.com`
 - WebSocket endpoint: `wss://ws.classic.ethereum.blockchain.yellow.com`
 - GraphQL https endpoint: `https://graphql.classic.ethereum.blockchain.yellow.com`
+- Enode: `enode://588d15cbc38a2c8825d22c0cdf5045303a32c648eab68e120d6c2b9b5a8aead997a9f23e15824a1b1348cf6fdeb1e7c7099c1982c1bfdd89cd525e6e442220ab@49.229.34.132:30343`
 - software: `multi-geth v1.9.7`
 - light server enabled
 - rpc port: `8585`
